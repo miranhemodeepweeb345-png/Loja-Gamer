@@ -1,0 +1,51 @@
+.texto-vermelho {
+  color: red;
+    }
+.memoria {
+    color: #D8B4FE;
+}
+
+.placa {
+    color: #93C5FD;
+}
+
+.teclado {
+    color: #86EFAC;
+}
+.mouse {
+    color: #67E8F9;
+}
+
+.ssd {
+    color: #FFFFFF;
+}
+.preço {
+  color: gold;
+}
+
+body {
+    background-color: #151320;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #A855F7;
+    text-align: center;
+}
+
+h2 {
+    color: #38BDF8;
+}
+
+h3 {
+    color: #C084FC;
+}
+
+.produto {
+    background-color: #211c32;
+    border: 1px solid #6d28d9;
+    border-radius: 12px;
+    padding: 12px;
+    margin: 12px 0;
+}
